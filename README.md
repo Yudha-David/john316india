@@ -1,2 +1,3 @@
 # john316india
-Double moon
+Double moon problem given in Simon, Haykin. "Neural networks and learning machines." (2009)
+
